@@ -1,0 +1,24 @@
+[33mcommit fd5ec80662d424d4184d97e24e283330f569b870[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 59b087a 5aa77d9
+Author: Adriel Fernandez <adriel.fernandez@ucb.edu.bo>
+Date:   Thu Oct 19 08:52:02 2023 -0400
+
+    fusion de rama2 y master
+
+[33mcommit 59b087a0f175a8b1c8cfe3dcc48785445f8ff69e[m
+Author: Adriel Fernandez <adriel.fernandez@ucb.edu.bo>
+Date:   Thu Oct 19 08:49:03 2023 -0400
+
+    cambio desde master
+
+[33mcommit 5aa77d9567078ee7c5c4be232b24e0f5cfb46815[m[33m ([m[1;32mrama2[m[33m)[m
+Author: Adriel Fernandez <adriel.fernandez@ucb.edu.bo>
+Date:   Thu Oct 19 08:46:54 2023 -0400
+
+    linea de descripcion rama2
+
+[33mcommit eca1e4156c67b112773125640b9d4f6f897898c3[m
+Author: Adriel Fernandez <adriel.fernandez@ucb.edu.bo>
+Date:   Thu Oct 19 08:42:30 2023 -0400
+
+    readme
